@@ -1,0 +1,27 @@
+{
+  "name": "gulp-html-concat",
+  "version": "0.2.0",
+  "description": "A gulp plugin to concat html contents",
+  "keywords": [
+    "gulpplugin", "gulp"
+  ],
+  "author": {
+  },
+  "main": "./index.js",
+  "repository": {
+  },
+  "scripts": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp-util": "~2.2.0"
+  },
+  "engines": {
+    "node": ">=0.10.x",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [{
+    "type": "MIT"
+  }]
+}
